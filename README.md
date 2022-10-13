@@ -1,6 +1,9 @@
-### Welcome to my profile - I'm Janine! 👩🏻‍💻
+[![LinkedIn Banner](/banner.jpeg "LinkedIn Banner")](https://www.linkedin.com/in/janine-luk/)
 
-I'm a London-based Software Engineer, currently working as a Developer Evangelist at R3 (Permissioned Blockchain/DLT). 
+### Welcome to my profile! 👩🏻‍💻
+
+I'm Janine - a London-based Software Engineer.
+I currently work as a Developer Evangelist at **[R3](https://www.r3.com/)** (Permissioned Blockchain/DLT). 
 
 Originally from Hong Kong, I've lived abroad since the age of 11 in Northern Ireland, Canada, and France. 
 Coding, languages, music, and dance are my main passions.
