@@ -2,7 +2,7 @@
 
 [![Janine's GitHub stats](https://github-readme-stats.vercel.app/api?username=ja9-look&count_private=true&show_icons=true&theme=synthwave)](https://github.com/ja9-look/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ja9-look&layout=compact&theme=synthwave)](https://github.com/ja9-look/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ja9-look&layout=compact&count_private=true&theme=synthwave)](https://github.com/ja9-look/github-readme-stats)
 
 
 <!--
