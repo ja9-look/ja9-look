@@ -2,6 +2,9 @@
 
 [![Janine's GitHub stats](https://github-readme-stats.vercel.app/api?username=ja9-look&count_private=true&show_icons=true&theme=synthwave)](https://github.com/ja9-look/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ja9-look)](https://github.com/ja9-look/github-readme-stats)
+
+
 <!--
 **ja9-look/ja9-look** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
