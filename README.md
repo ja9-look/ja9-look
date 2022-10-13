@@ -1,4 +1,11 @@
-### Welcome to my GitHub profile! 👩🏻‍💻
+### Hi, I'm Janine 👩🏻‍💻
+
+## I'm a London-based Software Engineer.
+## Currently Role: Developer Evangelist at R3 (Permissioned Blockchain/DLT). 
+## Coding Languages: Java, Kotlin, Javascript (React/Redux), and Ruby. 
+
+## Originally from Hong Kong, I've lived abroad since the age of 11 in Northern Ireland, Canada, and France. 
+## Coding, languages, music, and dance are her main passions.
 
 [![Janine's GitHub stats](https://github-readme-stats.vercel.app/api?username=ja9-look&count_private=true&show_icons=true&theme=omni)](https://github.com/ja9-look/github-readme-stats)
 
