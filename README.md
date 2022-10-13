@@ -1,4 +1,4 @@
-
+[![GitHub Banner](/github-banner.jpeg "GitHub Banner")](https://www.linkedin.com/in/janine-luk/)
 
 ### Welcome to my profile! 👩🏻‍💻
 
