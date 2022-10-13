@@ -1,4 +1,4 @@
-### Hi there 👋
+### Welcome to my GitHub profile! 👩🏻‍💻
 
 [![Janine's GitHub stats](https://github-readme-stats.vercel.app/api?username=ja9-look&count_private=true&show_icons=true&theme=synthwave)](https://github.com/ja9-look/github-readme-stats)
 
