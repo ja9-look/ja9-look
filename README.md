@@ -1,4 +1,4 @@
-[![LinkedIn Banner](/banner.jpeg "LinkedIn Banner")](https://www.linkedin.com/in/janine-luk/)
+
 
 ### Welcome to my profile! 👩🏻‍💻
 
