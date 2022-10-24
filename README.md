@@ -1,6 +1,6 @@
 [![GitHub Banner](/github-banner.jpeg "GitHub Banner")](https://www.linkedin.com/in/janine-luk/)
 
-### Welcome to my profile! 👩🏻‍💻
+### Welcome to coding corner! 👩🏻‍💻
 
 I'm Janine - a London-based Software Engineer.
 I currently work as a Developer Evangelist at **[R3](https://www.r3.com/)** (Permissioned Blockchain/DLT). 
