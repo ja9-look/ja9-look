@@ -3,7 +3,7 @@
 ### Welcome to my coding corner! 👩🏻‍💻
 
 I'm Janine - a London-based Software Engineer.
-I currently work as a Developer Evangelist at **[R3](https://www.r3.com/)** (Permissioned Blockchain/DLT). 
+I currently work as a Solutions Engineer at **[R3](https://www.r3.com/)** (Enterprise Blockchain/DLT). 
 
 Originally from Hong Kong, I've lived abroad since the age of 11 in Northern Ireland, Canada, and France. 
 Coding, languages, music, and dance are my main passions.
