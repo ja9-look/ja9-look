@@ -6,9 +6,9 @@ I'm Janine - a London-based Software Engineer.
 I currently work as a Solutions Engineer at **[R3](https://www.r3.com/)** (Enterprise Blockchain/DLT). 
 
 Originally from Hong Kong, I've lived abroad since the age of 11 in Northern Ireland, Canada, and France. 
-Coding, languages, music, and dance are my main passions.
+Coding, dance, golf, languages, and music are my main passions.
 
-Coding Languages: Java, Kotlin, Javascript (React/Redux), and Ruby. 
+Coding Languages: Java, Kotlin, Javascript (React/Redux), TypeScript and Ruby. 
 
 
 [![Janine's GitHub stats](https://github-readme-stats.vercel.app/api?username=ja9-look&count_private=true&show_icons=true&theme=omni)](https://github.com/ja9-look/github-readme-stats)
