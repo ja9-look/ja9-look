@@ -4,11 +4,11 @@
 
 I'm Janine - a Senior Solutions Engineer at [R3](https://r3.com/) based in London, UK. 
 
-GCP Certified Professional Cloud Architect and Full-Stack Engineer with expertise in Java, Kotlin, JavaScript (React/Redux), and TypeScript. 
+I'm a GCP Certified Professional Cloud Architect and Full-Stack Engineer with expertise in Java, Kotlin, JavaScript (React/Redux), and TypeScript. 
 
-Volunteers as Lead Interview Coach and Ambassador at Code First Girls, advocating for and mentoring underrepresented individuals in STEM. 
+In my spare time, I volunteer as Lead Interview Coach and Ambassador at Code First Girls, advocating for and mentoring underrepresented individuals in STEM. 
 
-Passionate about coding, dance, golf, languages, and music.
+My hobbies include coding, dance, golf, languages, and music.
 
 <!--
 **ja9-look/ja9-look** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
