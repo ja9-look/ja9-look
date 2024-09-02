@@ -2,14 +2,13 @@
 
 ### Welcome to my coding corner! 👩🏻‍💻
 
-I'm Janine - a London-based Software Engineer.
-I currently work as a Solutions Engineer at **[R3](https://www.r3.com/)** (Enterprise Blockchain/DLT). 
+I'm Janine - a Senior Solutions Engineer at [R3](https://r3.com/) based in London, UK. 
 
-Originally from Hong Kong, I've lived abroad since the age of 11 in Northern Ireland, Canada, and France. 
-Coding, dance, golf, languages, and music are my main passions.
+GCP Certified Professional Cloud Architect and Full-Stack Engineer with expertise in Java, Kotlin, JavaScript (React/Redux), and TypeScript. 
 
-Coding Languages: Java, Kotlin, Javascript (React/Redux), TypeScript and Ruby. 
+Volunteers as Lead Interview Coach and Ambassador at Code First Girls, advocating for and mentoring underrepresented individuals in STEM. 
 
+Passionate about coding, dance, golf, languages, and music.
 
 <!--
 **ja9-look/ja9-look** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
