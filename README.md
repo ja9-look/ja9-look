@@ -4,7 +4,8 @@
 
 I'm Janine - a Senior Solutions Engineer at [R3](https://r3.com/) based in London, UK. 
 
-I'm a GCP Certified Professional Cloud Architect and Full-Stack Engineer with expertise in Java, Kotlin, JavaScript (React/Redux), and TypeScript. 
+I'm a GCP Certified Professional Cloud Architect and Full-Stack Engineer with experienced in designing and implementing enterprise-grade DLT solutions in Financial Services. 
+My main tech stack includes Java, Kotlin, JavaScript (React/Redux), TypeScript, Corda, and Solidity. 
 
 In my spare time, I volunteer as a Lead Technical and Interview Coach, as well as an Ambassador at Code First Girls, where I mentor and advocate for underrepresented individuals in STEM.
 
