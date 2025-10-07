@@ -2,7 +2,7 @@
 
 ### Welcome to my coding corner! 👩🏻‍💻
 
-I'm Janine - a Senior Solutions Engineer at [R3](https://r3.com/) based in London, UK. 
+I'm Janine - a Senior Software Engineer at [R3](https://r3.com/) based in London, UK. 
 
 I'm a GCP Certified Professional Cloud Architect and Full-Stack Engineer with experienced in designing and implementing enterprise-grade DLT solutions in Financial Services. 
 My main tech stack includes Java, Kotlin, JavaScript (React/Redux), TypeScript, Corda, and Solidity. 
